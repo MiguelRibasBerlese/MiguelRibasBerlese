@@ -1,8 +1,8 @@
-# 💫 About Me: <div align="right">
+<div align="right">
   <img height="150" src="https://media.tenor.com/iODM1xEc4qwAAAAj/sungod-sun-god-nika.gif"  />
 </div>
 
-
+# 💫 About Me: 
 Sou estudante de Engenharia de Software, com foco em desenvolvimento de interfaces e experiência do usuário. Estou atualmente em formação Full Stack com Python pela EBAC, com conhecimento prático em HTML, CSS, JavaScript, TypeScript e React.js. <br><br>Possuo formação complementar em Lógica de Programação, e experiência acadêmica em projetos que aplicam fundamentos de design minimalista, responsividade e boas práticas de código. Também tenho familiaridade com Git/GitHub, arquitetura MVC e banco de dados relacionais.<br><br>Atualmente busco expandir minha comunicação técnica em inglês e estou em processo contínuo de aprendizado e evolução profissional.
 
 
