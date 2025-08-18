@@ -1,4 +1,4 @@
-<div align="right">
+<div align="left">
   <img height="150" src="https://media.tenor.com/iODM1xEc4qwAAAAj/sungod-sun-god-nika.gif"  />
 </div>
 
