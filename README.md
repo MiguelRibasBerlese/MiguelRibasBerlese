@@ -32,7 +32,7 @@
 
 ```txt
 📍 Ribeirão Preto, SP — Brazil
-🎓 Computer Science @ UNAERP
+🎓 Software Engineer @ UNAERP
 🚀 Building: RadarLinka & LINKA Ecosystem
 💡 "Help businesses save time and scale through AI & automation."
 ⚡ Currently: React 19 · TypeScript · Python · Groq · Flutter
