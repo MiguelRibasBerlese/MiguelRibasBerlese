@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
-  <img src="./assets/header-light.svg" width="100%" alt="Miguel Ribas Berlese, full-stack developer, Ribeirão Preto, Brazil" />
+  <img src="./assets/header-light.svg" width="640" alt="Miguel Ribas Berlese, full-stack developer, Ribeirão Preto, Brazil" />
 </picture>
 
 I build web software end to end: requirements, architecture, code and deploy. Most of it replaces spreadsheets and manual routines with systems that run on their own, usually with an LLM handling the tedious part.
