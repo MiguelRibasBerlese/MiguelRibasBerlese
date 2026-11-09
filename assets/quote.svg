@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="118" viewBox="0 0 680 118" role="img" aria-label="Hiring me isn't a cost, it's a long-term investment. I'm a young man, after all.">
+<style>.w{opacity:0;animation:w .6s cubic-bezier(.22,1,.36,1) forwards}
+@keyframes w{to{opacity:1}}
+.sig{opacity:0;animation:w .8s ease-out 2.10s forwards}
+@media (prefers-reduced-motion: reduce){.w,.sig{animation:none;opacity:1}}</style>
+<rect x="0.5" y="0.5" width="679" height="117" rx="12" fill="#090C12" stroke="#30363D"/>
+<text x="340" y="44" text-anchor="middle" style="font-family:Georgia,'Iowan Old Style','Times New Roman',serif;font-size:21px;font-style:italic" fill="#E6EDF3"><tspan class="w" style="animation-delay:0.20s">Hiring </tspan><tspan class="w" style="animation-delay:0.29s">me </tspan><tspan class="w" style="animation-delay:0.38s">isn't </tspan><tspan class="w" style="animation-delay:0.47s">a </tspan><tspan class="w" style="animation-delay:0.56s">cost, </tspan><tspan class="w" style="animation-delay:0.65s">it's </tspan><tspan class="w" style="animation-delay:0.74s">a </tspan><tspan class="w" style="animation-delay:0.83s">long-term </tspan><tspan class="w" style="animation-delay:0.92s">investment. </tspan></text>
+<text x="340" y="74" text-anchor="middle" style="font-family:Georgia,'Iowan Old Style','Times New Roman',serif;font-size:21px;font-style:italic" fill="#2FD3B4"><tspan class="w" style="animation-delay:1.26s">I'm </tspan><tspan class="w" style="animation-delay:1.35s">a </tspan><tspan class="w" style="animation-delay:1.44s">young </tspan><tspan class="w" style="animation-delay:1.53s">man, </tspan><tspan class="w" style="animation-delay:1.62s">after </tspan><tspan class="w" style="animation-delay:1.71s">all. </tspan></text>
+<text class="sig" x="340" y="104" text-anchor="middle" style="font-family:ui-monospace,'SFMono-Regular',Consolas,Menlo,monospace;font-size:12px" fill="#8B949E">miguel ribas</text>
+</svg>
