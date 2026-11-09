@@ -17,7 +17,7 @@ I build web software end to end: requirements, architecture, code and deploy. Mo
 Software Engineering at UNAERP, graduating in 2027. 5th place at the NASA Space Apps Challenge 2025.
 
 <p align="center">
-  <img src="./assets/quote.svg" width="680" alt="Hiring me isn't a cost, it's a long-term investment. I'm a young man, after all." />
+  <img src="./assets/quote.svg" width="680" alt="The impediment to action advances action. What stands in the way becomes the way. Marcus Aurelius, Meditations" />
 </p>
 
 <img src="./assets/divider.svg" width="680" alt="" />
