@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="340" height="186" viewBox="0 0 340 186" role="img" aria-label="RadarLinka: Collects events in Ribeirão Preto from scattered sources and organizes them with an LLM.">
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="186" viewBox="0 0 340 186" role="img" aria-label="RadarLinka: Reúne eventos de Ribeirão Preto de várias fontes e os organiza com um LLM.">
 <style>.f{opacity:0;animation:f .7s cubic-bezier(.22,1,.36,1) .15s forwards}.f2{animation-delay:.4s}
 @keyframes f{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
 .p{animation:p 2.4s ease-in-out infinite}@keyframes p{50%{opacity:.3}}
@@ -9,9 +9,9 @@
 <rect x="0.5" y="0.5" width="339" height="185" rx="10" fill="#0F141B" stroke="#30363D"/>
 <g clip-path="url(#k)"><rect class="sweep" x="0" y="0.5" width="120" height="1.5" fill="url(#h)"/></g>
 <g class="f"><text x="22" y="42" style="font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif;font-size:19px;font-weight:700" fill="#E6EDF3">RadarLinka</text>
-<rect x="261.6" y="25" width="56" height="22" rx="11" fill="none" stroke="#30363D"/>
-<circle class="p" cx="274" cy="36" r="3" fill="#3FB950"/>
-<text x="282" y="40" style="font-family:ui-monospace,'SFMono-Regular','JetBrains Mono',Consolas,Menlo,monospace;font-size:11.5px" fill="#3FB950">live</text></g>
-<g class="f f2"><text x="22" y="78" style="font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif;font-size:14.5px" fill="#ADB6C0"><tspan x="22" dy="0">Collects events in Ribeirão Preto from</tspan><tspan x="22" dy="21">scattered sources and organizes them</tspan><tspan x="22" dy="21">with an LLM.</tspan></text>
+<rect x="254.0" y="25" width="64" height="22" rx="11" fill="none" stroke="#30363D"/>
+<circle class="p" cx="266" cy="36" r="3" fill="#3FB950"/>
+<text x="274" y="40" style="font-family:ui-monospace,'SFMono-Regular','JetBrains Mono',Consolas,Menlo,monospace;font-size:11.5px" fill="#3FB950">no ar</text></g>
+<g class="f f2"><text x="22" y="78" style="font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif;font-size:14.5px" fill="#ADB6C0"><tspan x="22" dy="0">Reúne eventos de Ribeirão Preto de</tspan><tspan x="22" dy="21">várias fontes e os organiza com um</tspan><tspan x="22" dy="21">LLM.</tspan></text>
 <text x="22" y="164" style="font-family:ui-monospace,'SFMono-Regular','JetBrains Mono',Consolas,Menlo,monospace;font-size:12px" fill="#2FD3B4">python · groq · vercel</text></g>
 </svg>
