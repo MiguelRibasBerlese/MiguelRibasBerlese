@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="104" height="40" viewBox="0 0 104 40" role="img" aria-label="Email">
+<style>.s{animation:s 6s cubic-bezier(.65,0,.35,1) infinite 3s}@keyframes s{0%{transform:translateX(-80px)}35%,100%{transform:translateX(124px)}}
+@media (prefers-reduced-motion: reduce){.s{animation:none;opacity:0}}</style>
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#2FD3B4" stop-opacity="0"/><stop offset=".5" stop-color="#2FD3B4" stop-opacity=".18"/><stop offset="1" stop-color="#2FD3B4" stop-opacity="0"/></linearGradient>
+<clipPath id="k"><rect x="1" y="1" width="102" height="38" rx="8"/></clipPath></defs>
+<rect x="0.5" y="0.5" width="103" height="39" rx="8" fill="#161B22" stroke="#30363D"/>
+<g clip-path="url(#k)"><rect class="s" x="0" y="0" width="60" height="40" fill="url(#g)"/></g>
+<circle cx="18" cy="20" r="3.5" fill="#2FD3B4"/>
+<text x="30" y="25" style="font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif;font-size:14px;font-weight:600" fill="#E6EDF3">Email</text>
+<text x="88" y="25" text-anchor="end" style="font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif;font-size:14px" fill="#2FD3B4">↗</text>
+</svg>

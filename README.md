@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-miguel-ribas.vercel.app"><b>portfolio</b></a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/miguel-ribas-berlese-2927b0339"><b>linkedin</b></a> &nbsp;·&nbsp;
-  <a href="mailto:miguelberlese14@gmail.com"><b>email</b></a>
+  <a href="https://portfolio-miguel-ribas.vercel.app"><img src="./assets/btn-portfolio.svg" height="40" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/miguel-ribas-berlese-2927b0339"><img src="./assets/btn-linkedin.svg" height="40" alt="LinkedIn" /></a>
+  <a href="mailto:miguelberlese14@gmail.com"><img src="./assets/btn-email.svg" height="40" alt="Email" /></a>
 </p>
 
 <img src="./assets/divider.svg" width="680" alt="" />
@@ -36,6 +36,12 @@ Software Engineering at UNAERP, graduating in 2027. 5th place at the NASA Space 
 <td><img src="./assets/card-boipreto.svg" width="340" alt="boipreto: institutional website for an agribusiness consultancy" /></td>
 </tr>
 </table>
+
+<img src="./assets/divider.svg" width="680" alt="" />
+
+### activity
+
+<img src="./assets/activity.svg" width="680" alt="GitHub contributions in the last year" />
 
 <img src="./assets/divider.svg" width="680" alt="" />
 
