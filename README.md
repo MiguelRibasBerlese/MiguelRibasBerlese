@@ -1,51 +1,47 @@
-<p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Miguel Ribas Berlese — Full-Stack Developer, AI and Automation. Open to junior roles." />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
+  <img src="./assets/header-light.svg" width="100%" alt="Miguel Ribas Berlese, full-stack developer, Ribeirão Preto, Brazil" />
+</picture>
 
-<p align="center">
-  <a href="https://portfolio-miguel-ribas.vercel.app"><b>portfolio</b></a> &nbsp;✦&nbsp;
-  <a href="https://www.linkedin.com/in/miguel-ribas-berlese-2927b0339"><b>linkedin</b></a> &nbsp;✦&nbsp;
-  <a href="mailto:miguelberlese14@gmail.com"><b>email</b></a>
-</p>
+I build web software end to end: requirements, architecture, code and deploy. Most of it replaces spreadsheets and manual routines with systems that run on their own, usually with an LLM handling the tedious part.
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+Software Engineering at UNAERP, graduating in 2027. 5th place at the NASA Space Apps Challenge 2025.
 
-### ✦ about
+Open to junior full-stack and automation roles, and to freelance projects.  
+[Portfolio](https://portfolio-miguel-ribas.vercel.app) · [LinkedIn](https://www.linkedin.com/in/miguel-ribas-berlese-2927b0339) · [Email](mailto:miguelberlese14@gmail.com)
 
-I build software that replaces spreadsheets, manual work and guesswork with systems that run on their own — from the first requirement to the deploy, with a soft spot for **LLM integrations** and **automation**.
-Software Engineering student at **UNAERP** (class of 2027), based in **Ribeirão Preto, Brazil** · 5th place at the **NASA Space Apps Challenge 2025**.
+<br/>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+### Work
 
-### ✦ stack
+**MintBoard** · beta  
+CRM for digital agencies: sales pipeline, projects, finance and subscription billing, with the Claude API built in. I designed and built all of it.  
+<sub>React · Node.js · PostgreSQL · Stripe</sub>
 
-<p align="center">
-  <img src="./assets/stack.svg" width="100%" alt="Tech stack: React, TypeScript, Vite, Tailwind, Node.js, NestJS, Python, PHP, Java, PostgreSQL, Prisma, Firebase, Claude API, Groq, n8n, Playwright, Flutter, Dart, Kotlin" />
-</p>
+**[RadarLinka](https://radar-olive-five.vercel.app)** · live  
+Collects events in Ribeirão Preto from scattered sources and organizes them with an LLM.  
+<sub>Python · Groq · Vercel</sub>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+**LINKA Ecosystem** · in development  
+Events, maps and local commerce, on web and mobile.  
+<sub>React · Firebase · Flutter</sub>
 
-### ✦ projects
+**boipreto** · live  
+Institutional website for an agribusiness consultancy.  
+<sub>React 19 · TypeScript · Tailwind · Motion</sub>
 
-<table>
-<tr>
-<td width="50%"><img src="./assets/card-mintboard.svg" width="100%" alt="MintBoard — SaaS CRM for digital agencies" /></td>
-<td width="50%"><a href="https://radar-olive-five.vercel.app"><img src="./assets/card-radarlinka.svg" width="100%" alt="RadarLinka — AI-powered event aggregator for Ribeirão Preto" /></a></td>
-</tr>
-<tr>
-<td width="50%"><img src="./assets/card-linka.svg" width="100%" alt="LINKA Ecosystem — events, maps and local commerce" /></td>
-<td width="50%"><img src="./assets/card-boipreto.svg" width="100%" alt="boipreto — institutional website for an agribusiness consultancy" /></td>
-</tr>
-</table>
+<br/>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+### Stack
 
-### ✦ now
+Frontend: React, TypeScript, Vite, Tailwind  
+Backend: Node.js, NestJS, Python, PHP, Java  
+Data: PostgreSQL, Prisma, Firebase  
+AI and automation: Claude API, Groq, n8n, Playwright  
+Mobile: Flutter, Dart, Kotlin
 
-| 🛠️ building | 📚 learning | 🤝 open to |
-|:--|:--|:--|
-| SaaS products and custom systems for small businesses | software architecture · Java · RAG and LLM evaluation | junior full-stack, AI and automation roles · freelance |
+<br/>
 
-<p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Thanks for visiting — let's build something" />
-</p>
+### Lately
+
+Studying software architecture, Java and how to evaluate LLM output properly.

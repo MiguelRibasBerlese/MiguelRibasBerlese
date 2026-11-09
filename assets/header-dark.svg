@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="210" viewBox="0 0 900 210" role="img" aria-label="Miguel Ribas Berlese, full-stack developer, Ribeirão Preto, Brazil">
+<style>
+.n{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif;font-size:64px;font-weight:700;letter-spacing:-0.02em}
+.c{font-family:ui-monospace,'SFMono-Regular','JetBrains Mono',Consolas,Menlo,monospace;font-size:13px;letter-spacing:0.01em;fill:#8B929B}
+.sweep{animation:terminator 18s cubic-bezier(.45,0,.55,1) infinite alternate}
+@keyframes terminator{from{transform:translateX(-380px)}to{transform:translateX(330px)}}
+@media (prefers-reduced-motion: reduce){.sweep{animation:none;transform:translateX(330px)}}
+</style>
+<defs>
+ <linearGradient id="edge" x1="0" x2="1">
+  <stop offset="0" stop-color="#fff"/><stop offset="0.8" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+ </linearGradient>
+ <mask id="light" maskUnits="userSpaceOnUse" x="0" y="0" width="900" height="210">
+  <rect class="sweep" x="-1000" y="0" width="1600" height="210" fill="url(#edge)"/>
+ </mask>
+</defs>
+<rect width="900" height="210" fill="#0E1013"/>
+<text x="0" y="104" class="n" fill="#4E5560">Miguel Ribas Berlese</text>
+<text x="0" y="104" class="n" fill="#ECEEF0" mask="url(#light)">Miguel Ribas Berlese</text>
+<line x1="2" y1="138" x2="900" y2="138" stroke="#22262C" stroke-width="1"/>
+<text x="2" y="170" class="c">full-stack developer</text>
+<text x="898" y="170" class="c" text-anchor="end">ribeirão preto, br · 21.17°S 47.81°W</text>
+</svg>
