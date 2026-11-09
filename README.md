@@ -1,87 +1,51 @@
 <p align="center">
-  <img src="./assets/terminal.svg" width="760" alt="Terminal: Miguel Ribas Berlese, full-stack developer focused on AI integrations, automation and SaaS. Open to junior roles." />
+  <img src="./assets/header.svg" width="100%" alt="Miguel Ribas Berlese — Full-Stack Developer, AI and Automation. Open to junior roles." />
 </p>
 
 <p align="center">
-  <a href="https://portfolio-miguel-ribas.vercel.app"><b>portfolio</b></a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/miguel-ribas-berlese-2927b0339"><b>linkedin</b></a> &nbsp;·&nbsp;
+  <a href="https://portfolio-miguel-ribas.vercel.app"><b>portfolio</b></a> &nbsp;✦&nbsp;
+  <a href="https://www.linkedin.com/in/miguel-ribas-berlese-2927b0339"><b>linkedin</b></a> &nbsp;✦&nbsp;
   <a href="mailto:miguelberlese14@gmail.com"><b>email</b></a>
 </p>
 
-<br/>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-### `$ cat README.md`
+### ✦ about
 
-I build software that replaces spreadsheets, manual work and guesswork with systems that run on their own.
-Full-stack by trade, with a soft spot for **LLM integrations** and **automation** — from the first requirement to the deploy.
-Software Engineering student at **UNAERP** (class of 2027), based in **Ribeirão Preto, Brazil**.
+I build software that replaces spreadsheets, manual work and guesswork with systems that run on their own — from the first requirement to the deploy, with a soft spot for **LLM integrations** and **automation**.
+Software Engineering student at **UNAERP** (class of 2027), based in **Ribeirão Preto, Brazil** · 5th place at the **NASA Space Apps Challenge 2025**.
 
-<br/>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-### `$ ls ./projects --featured`
+### ✦ stack
+
+<p align="center">
+  <img src="./assets/stack.svg" width="100%" alt="Tech stack: React, TypeScript, Vite, Tailwind, Node.js, NestJS, Python, PHP, Java, PostgreSQL, Prisma, Firebase, Claude API, Groq, n8n, Playwright, Flutter, Dart, Kotlin" />
+</p>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+### ✦ projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-**MintBoard** &nbsp;`SaaS · beta`<br/>
-CRM for digital agencies — sales pipeline, projects, tasks, finance and subscription billing, with AI built in.<br/>
-<sub>React · Node.js · PostgreSQL · Claude API · Stripe</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**[RadarLinka](https://radar-olive-five.vercel.app)** &nbsp;`live`<br/>
-AI-powered event aggregator for Ribeirão Preto: collects events from many sources and organizes them with an LLM.<br/>
-<sub>Python · Groq · Vercel</sub>
-
-</td>
+<td width="50%"><img src="./assets/card-mintboard.svg" width="100%" alt="MintBoard — SaaS CRM for digital agencies" /></td>
+<td width="50%"><a href="https://radar-olive-five.vercel.app"><img src="./assets/card-radarlinka.svg" width="100%" alt="RadarLinka — AI-powered event aggregator for Ribeirão Preto" /></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-**LINKA Ecosystem** &nbsp;`in development`<br/>
-Local platform for events, maps and local commerce, on web and mobile.<br/>
-<sub>React · Firebase · Flutter</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**boipreto** &nbsp;`live`<br/>
-Institutional website for an agribusiness consultancy, with motion-driven UI.<br/>
-<sub>React 19 · TypeScript · Tailwind · Motion</sub>
-
-</td>
+<td width="50%"><img src="./assets/card-linka.svg" width="100%" alt="LINKA Ecosystem — events, maps and local commerce" /></td>
+<td width="50%"><img src="./assets/card-boipreto.svg" width="100%" alt="boipreto — institutional website for an agribusiness consultancy" /></td>
 </tr>
 </table>
 
-<br/>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-### `$ stack --list`
+### ✦ now
 
-```yaml
-frontend:    React 19 · TypeScript · Vite · TailwindCSS
-backend:     Node.js · NestJS · Python · PHP · Java
-data:        PostgreSQL · Prisma · Firebase
-ai:          Claude API · Groq · Playwright · BeautifulSoup
-automation:  n8n · webhooks · REST APIs
-mobile:      Flutter · Dart · Kotlin
-infra:       Vercel · Cloudflare · Git
-```
-
-<br/>
-
-### `$ now`
-
-| building | learning | open to |
+| 🛠️ building | 📚 learning | 🤝 open to |
 |:--|:--|:--|
 | SaaS products and custom systems for small businesses | software architecture · Java · RAG and LLM evaluation | junior full-stack, AI and automation roles · freelance |
 
-<br/>
-
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MiguelRibasBerlese/MiguelRibasBerlese/output/snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/MiguelRibasBerlese/MiguelRibasBerlese/output/snake.svg" alt="Contribution graph being eaten by a snake" />
-  </picture>
+  <img src="./assets/footer.svg" width="100%" alt="Thanks for visiting — let's build something" />
 </p>
