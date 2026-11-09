@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120" role="img" aria-label="Thanks for visiting">
+<defs><linearGradient id="w" x1="0" x2="1"><stop offset="0" stop-color="#2FD3B4"/><stop offset="1" stop-color="#7C3AED"/></linearGradient></defs>
+<path fill="url(#w)" opacity="0.18"><animate attributeName="d" dur="7s" repeatCount="indefinite" values="
+M0 70 Q 225 40 450 70 T 900 70 V120 H0Z;
+M0 70 Q 225 100 450 70 T 900 70 V120 H0Z;
+M0 70 Q 225 40 450 70 T 900 70 V120 H0Z"/></path>
+<path fill="url(#w)" opacity="0.35"><animate attributeName="d" dur="5s" repeatCount="indefinite" values="
+M0 85 Q 225 105 450 85 T 900 85 V120 H0Z;
+M0 85 Q 225 65 450 85 T 900 85 V120 H0Z;
+M0 85 Q 225 105 450 85 T 900 85 V120 H0Z"/></path>
+<text x="450" y="40" text-anchor="middle" style="font-family:'JetBrains Mono','Fira Code',Consolas,Menlo,monospace;font-size:14px" fill="#8B949E">thanks for visiting <tspan fill="#2FD3B4">✦</tspan> let's build something<tspan fill="#2FD3B4"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>_</tspan></text>
+</svg>
