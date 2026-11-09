@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="10" viewBox="0 0 680 10" aria-hidden="true">
+<style>.b{animation:b 5s cubic-bezier(.65,0,.35,1) infinite}@keyframes b{from{transform:translateX(-160px)}to{transform:translateX(680px)}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#2FD3B4" stop-opacity="0"/><stop offset="0.5" stop-color="#2FD3B4" stop-opacity="0.9"/><stop offset="1" stop-color="#2FD3B4" stop-opacity="0"/></linearGradient></defs>
+<rect x="0" y="4.5" width="680" height="1" fill="#30363D"/>
+<rect class="b" x="0" y="4" width="160" height="2" fill="url(#g)"/>
+</svg>

@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="268" viewBox="0 0 680 268" role="img" aria-label="Stack: React, TypeScript, Vite, Tailwind, Node.js, NestJS, Python, PHP, Java, PostgreSQL, Prisma, Firebase, Claude API, Groq, n8n, Playwright, Flutter, Dart, Kotlin">
+<style>.chip{opacity:0;animation:pop .5s cubic-bezier(.22,1,.36,1) forwards}
+@keyframes pop{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+.c0{animation-delay:0.15s}
+.c1{animation-delay:0.22s}
+.c2{animation-delay:0.29s}
+.c3{animation-delay:0.36s}
+.c4{animation-delay:0.43s}
+.c5{animation-delay:0.50s}
+.c6{animation-delay:0.57s}
+.c7{animation-delay:0.64s}
+.c8{animation-delay:0.71s}
+.c9{animation-delay:0.78s}
+.c10{animation-delay:0.85s}
+.c11{animation-delay:0.92s}
+.c12{animation-delay:0.99s}
+.c13{animation-delay:1.06s}
+.c14{animation-delay:1.13s}
+.c15{animation-delay:1.20s}
+.c16{animation-delay:1.27s}
+.c17{animation-delay:1.34s}
+.c18{animation-delay:1.41s}
+@media (prefers-reduced-motion: reduce){.chip{animation:none;opacity:1}}</style>
+<text x="22" y="45" style="font-family:ui-monospace,'SFMono-Regular','JetBrains Mono',Consolas,Menlo,monospace;font-size:13px" fill="#8B949E">frontend</text>
+<g class="chip c0"><rect x="172" y="24" width="94" height="30" rx="15" fill="#161B22" stroke="#30363D"/>
+<circle cx="186" cy="39" r="3" fill="#2FD3B4"/>
+<text x="196" y="44" style="font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif;font-size:13.5px;font-weight:600" fill="#E6EDF3">React 19</text></g>
+<g class="chip c1"><rect x="274" y="24" width="110" height="30" rx="15" fill="#161B22" stroke="#30363D"/>
+<circle cx="288" cy="39" r="3" fill="#2FD3B4"/>
+<text x="298" y="44" style="font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif;font-size:13.5px;font-weight:600" fill="#E6EDF3">TypeScript</text></g>
+<g class="chip c2"><rect x="392" y="24" width="61" height="30" rx="15" fill="#161B22" stroke="#30363D"/>
+<circle cx="406" cy="39" r="3" fill="#2FD3B4"/>
+<text x="416" y="44" style="font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif;font-size:13.5px;font-weight:600" fill="#E6EDF3">Vite</text></g>
+<g class="chip c3"><rect x="460" y="24" width="94" height="30" rx="15" fill="#161B22" stroke="#30363D"/>
+<circle cx="474" cy="39" r="3" fill="#2FD3B4"/>
+<text x="484" y="44" style="font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif;font-size:13.5px;font-weight:600" fill="#E6EDF3">Tailwind</text></g>
+<text x="22" y="91" style="font-family:ui-monospace,'SFMono-Regular','JetBrains Mono',Consolas,Menlo,monospace;font-size:13px" fill="#8B949E">backend</text>
+<g class="chip c4"><rect x="172" y="70" width="85" height="30" rx="15" fill="#161B22" stroke="#30363D"/>
+<circle cx="186" cy="85" r="3" fill="#2FD3B4"/>
+<text x="196" y="90" style="font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif;font-size:13.5px;font-weight:600" fill="#E6EDF3">Node.js</text></g>
+<g class="chip c5"><rect x="265" y="70" width="77" height="30" rx="15" fill="#161B22" stroke="#30363D"/>
+<circle cx="279" cy="85" r="3" fill="#2FD3B4"/>
+<text x="289" y="90" style="font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif;font-size:13.5px;font-weight:600" fill="#E6EDF3">NestJS</text></g>
+<g class="chip c6"><rect x="351" y="70" width="77" height="30" rx="15" fill="#161B22" stroke="#30363D"/>
+<circle cx="365" cy="85" r="3" fill="#2FD3B4"/>
+<text x="375" y="90" style="font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif;font-size:13.5px;font-weight:600" fill="#E6EDF3">Python</text></g>
+<g class="chip c7"><rect x="436" y="70" width="53" height="30" rx="15" fill="#161B22" stroke="#30363D"/>
+<circle cx="450" cy="85" r="3" fill="#2FD3B4"/>
+<text x="460" y="90" style="font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif;font-size:13.5px;font-weight:600" fill="#E6EDF3">PHP</text></g>
+<g class="chip c8"><rect x="496" y="70" width="61" height="30" rx="15" fill="#161B22" stroke="#30363D"/>
+<circle cx="510" cy="85" r="3" fill="#2FD3B4"/>
+<text x="520" y="90" style="font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif;font-size:13.5px;font-weight:600" fill="#E6EDF3">Java</text></g>
+<text x="22" y="137" style="font-family:ui-monospace,'SFMono-Regular','JetBrains Mono',Consolas,Menlo,monospace;font-size:13px" fill="#8B949E">data</text>
+<g class="chip c9"><rect x="172" y="116" width="110" height="30" rx="15" fill="#161B22" stroke="#30363D"/>
+<circle cx="186" cy="131" r="3" fill="#2FD3B4"/>
+<text x="196" y="136" style="font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif;font-size:13.5px;font-weight:600" fill="#E6EDF3">PostgreSQL</text></g>
+<g class="chip c10"><rect x="290" y="116" width="77" height="30" rx="15" fill="#161B22" stroke="#30363D"/>
+<circle cx="304" cy="131" r="3" fill="#2FD3B4"/>
+<text x="314" y="136" style="font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif;font-size:13.5px;font-weight:600" fill="#E6EDF3">Prisma</text></g>
+<g class="chip c11"><rect x="375" y="116" width="94" height="30" rx="15" fill="#161B22" stroke="#30363D"/>
+<circle cx="389" cy="131" r="3" fill="#2FD3B4"/>
+<text x="399" y="136" style="font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif;font-size:13.5px;font-weight:600" fill="#E6EDF3">Firebase</text></g>
+<text x="22" y="183" style="font-family:ui-monospace,'SFMono-Regular','JetBrains Mono',Consolas,Menlo,monospace;font-size:13px" fill="#8B949E">ai &amp; automation</text>
+<g class="chip c12"><rect x="172" y="162" width="110" height="30" rx="15" fill="#161B22" stroke="#30363D"/>
+<circle cx="186" cy="177" r="3" fill="#2FD3B4"/>
+<text x="196" y="182" style="font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif;font-size:13.5px;font-weight:600" fill="#E6EDF3">Claude API</text></g>
+<g class="chip c13"><rect x="290" y="162" width="61" height="30" rx="15" fill="#161B22" stroke="#30363D"/>
+<circle cx="304" cy="177" r="3" fill="#2FD3B4"/>
+<text x="314" y="182" style="font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif;font-size:13.5px;font-weight:600" fill="#E6EDF3">Groq</text></g>
+<g class="chip c14"><rect x="359" y="162" width="53" height="30" rx="15" fill="#161B22" stroke="#30363D"/>
+<circle cx="373" cy="177" r="3" fill="#2FD3B4"/>
+<text x="383" y="182" style="font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif;font-size:13.5px;font-weight:600" fill="#E6EDF3">n8n</text></g>
+<g class="chip c15"><rect x="419" y="162" width="110" height="30" rx="15" fill="#161B22" stroke="#30363D"/>
+<circle cx="433" cy="177" r="3" fill="#2FD3B4"/>
+<text x="443" y="182" style="font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif;font-size:13.5px;font-weight:600" fill="#E6EDF3">Playwright</text></g>
+<text x="22" y="229" style="font-family:ui-monospace,'SFMono-Regular','JetBrains Mono',Consolas,Menlo,monospace;font-size:13px" fill="#8B949E">mobile</text>
+<g class="chip c16"><rect x="172" y="208" width="85" height="30" rx="15" fill="#161B22" stroke="#30363D"/>
+<circle cx="186" cy="223" r="3" fill="#2FD3B4"/>
+<text x="196" y="228" style="font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif;font-size:13.5px;font-weight:600" fill="#E6EDF3">Flutter</text></g>
+<g class="chip c17"><rect x="265" y="208" width="61" height="30" rx="15" fill="#161B22" stroke="#30363D"/>
+<circle cx="279" cy="223" r="3" fill="#2FD3B4"/>
+<text x="289" y="228" style="font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif;font-size:13.5px;font-weight:600" fill="#E6EDF3">Dart</text></g>
+<g class="chip c18"><rect x="334" y="208" width="77" height="30" rx="15" fill="#161B22" stroke="#30363D"/>
+<circle cx="348" cy="223" r="3" fill="#2FD3B4"/>
+<text x="358" y="228" style="font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif;font-size:13.5px;font-weight:600" fill="#E6EDF3">Kotlin</text></g>
+</svg>

@@ -1,47 +1,48 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
-  <img src="./assets/header-light.svg" width="640" alt="Miguel Ribas Berlese, full-stack developer, Ribeirão Preto, Brazil" />
-</picture>
+<p align="center">
+  <img src="./assets/header.svg" width="680" alt="Miguel Ribas Berlese, full-stack developer, AI and automation" />
+</p>
+
+<p align="center">
+  <a href="https://portfolio-miguel-ribas.vercel.app"><b>portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/miguel-ribas-berlese-2927b0339"><b>linkedin</b></a> &nbsp;·&nbsp;
+  <a href="mailto:miguelberlese14@gmail.com"><b>email</b></a>
+</p>
+
+<img src="./assets/divider.svg" width="680" alt="" />
+
+### about
 
 I build web software end to end: requirements, architecture, code and deploy. Most of it replaces spreadsheets and manual routines with systems that run on their own, usually with an LLM handling the tedious part.
 
 Software Engineering at UNAERP, graduating in 2027. 5th place at the NASA Space Apps Challenge 2025.
 
-Open to junior full-stack and automation roles, and to freelance projects.  
-[Portfolio](https://portfolio-miguel-ribas.vercel.app) · [LinkedIn](https://www.linkedin.com/in/miguel-ribas-berlese-2927b0339) · [Email](mailto:miguelberlese14@gmail.com)
+<img src="./assets/divider.svg" width="680" alt="" />
 
-<br/>
+### stack
 
-### Work
+<img src="./assets/stack.svg" width="680" alt="Stack: React, TypeScript, Vite, Tailwind, Node.js, NestJS, Python, PHP, Java, PostgreSQL, Prisma, Firebase, Claude API, Groq, n8n, Playwright, Flutter, Dart, Kotlin" />
 
-**MintBoard** · beta  
-CRM for digital agencies: sales pipeline, projects, finance and subscription billing, with the Claude API built in. I designed and built all of it.  
-<sub>React · Node.js · PostgreSQL · Stripe</sub>
+<img src="./assets/divider.svg" width="680" alt="" />
 
-**[RadarLinka](https://radar-olive-five.vercel.app)** · live  
-Collects events in Ribeirão Preto from scattered sources and organizes them with an LLM.  
-<sub>Python · Groq · Vercel</sub>
+### projects
 
-**LINKA Ecosystem** · in development  
-Events, maps and local commerce, on web and mobile.  
-<sub>React · Firebase · Flutter</sub>
+<table>
+<tr>
+<td><img src="./assets/card-mintboard.svg" width="340" alt="MintBoard: CRM for digital agencies" /></td>
+<td><a href="https://radar-olive-five.vercel.app"><img src="./assets/card-radarlinka.svg" width="340" alt="RadarLinka: AI-powered event aggregator for Ribeirão Preto" /></a></td>
+</tr>
+<tr>
+<td><img src="./assets/card-linka.svg" width="340" alt="LINKA Ecosystem: events, maps and local commerce" /></td>
+<td><img src="./assets/card-boipreto.svg" width="340" alt="boipreto: institutional website for an agribusiness consultancy" /></td>
+</tr>
+</table>
 
-**boipreto** · live  
-Institutional website for an agribusiness consultancy.  
-<sub>React 19 · TypeScript · Tailwind · Motion</sub>
+<img src="./assets/divider.svg" width="680" alt="" />
 
-<br/>
-
-### Stack
-
-Frontend: React, TypeScript, Vite, Tailwind  
-Backend: Node.js, NestJS, Python, PHP, Java  
-Data: PostgreSQL, Prisma, Firebase  
-AI and automation: Claude API, Groq, n8n, Playwright  
-Mobile: Flutter, Dart, Kotlin
-
-<br/>
-
-### Lately
+### lately
 
 Studying software architecture, Java and how to evaluate LLM output properly.
+
+<p align="center">
+  <img src="./assets/footer.svg" width="680" alt="" />
+</p>
